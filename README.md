@@ -1,4 +1,4 @@
-## Covid-19 no Nordeste Brasileiro: Análise da Campanha de Vacinação e monitoramento dos casos de Síndrome Respiratória Aguda Grave  
+## Covid-19 no Nordeste Brasileiro: análise da Campanha de Vacinação e monitoramento dos casos de Síndrome Respiratória Aguda Grave  
 
 **Professor:** Yuri Malheiros  
 **Alunos:** João Victor Alcoforado de Araújo  
